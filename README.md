@@ -1,5 +1,7 @@
 # Debian package DataStax PHP Driver for Apache Cassandra
 
+**THIS IS WORK IN PROGRESS**
+
 This is a Debian package for the [DataStax PHP Driver for Apache Cassandra](https://github.com/datastax/php-driver). 
 
 ## Requirements
