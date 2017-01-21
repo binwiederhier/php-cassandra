@@ -6,5 +6,5 @@ Standards-Version: 3.9.6
 
 Package: php-cassandra
 Architecture: any
-Depends: ${misc:Depends}, libuv0.10
+Depends: php7.0, libuv0.10
 Description: DataStax PHP Driver for Apache Cassandra
