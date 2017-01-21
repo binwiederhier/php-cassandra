@@ -1,0 +1,3 @@
+[submodule "php-driver"]
+	path = php-driver
+	url = git@github.com:datastax/php-driver.git

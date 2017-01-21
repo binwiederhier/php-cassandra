@@ -1,0 +1,8 @@
+/build
+/debian/php-cassandra
+/debian/files
+/debian/debhelper-build-stamp
+/debian/.debhelper
+/debian/php-cassandra.debhelper.log
+/debian/php-cassandra.substvars
+
